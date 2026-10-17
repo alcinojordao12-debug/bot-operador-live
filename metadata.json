@@ -1,0 +1,6 @@
+{
+  "name": "HUMANO BOT — Escritório de IA & Crypto Trading",
+  "description": "Escritório digital 2D estilo retro Super Mario com 30 agentes robôs, 8 robôs traders especializados, inteligência de mercado, gestão de risco e salas interativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
